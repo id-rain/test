@@ -1,0 +1,14 @@
+# 自定义列表-代理
+
+# 匹配域名后缀
+DOMAIN-SUFFIX,fanart.tv
+
+# 匹配完整域名
+# DOMAIN
+
+# 匹配域名关键字
+# DOMAIN-KEYWORD
+# DOMAIN-KEYWORD
+
+# 使用正则表达式匹配域名
+# DOMAIN-REGEX
